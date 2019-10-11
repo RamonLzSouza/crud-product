@@ -1,0 +1,34 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "name": "Arthur Oliveira",
+      "email": "aoliveira@cod3r.com.br"
+    },
+    {
+      "id": 2,
+      "name": "Maria Julia da Silva",
+      "email": "mjds@empresa.com"
+    }
+  ],
+  "produtos": [
+    {
+      "description": "55",
+      "quantity": "gggg",
+      "price": "qqq",
+      "marca": "666",
+      "id": 2
+    }
+  ],
+  "compras": [
+    {
+      "id": 1,
+      "id_user": 1,
+      "id_product": 10,
+      "quantity": 3,
+      "price": 30,
+      "data": "20:03 10/09/2019"
+    }
+  ]
+
+}
